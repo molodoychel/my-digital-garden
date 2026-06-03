@@ -12,15 +12,15 @@
 
 ```base
 views:
-  - type: table
-    name: Таблица
+  - type: cards
+    name: Вид таблицы
     filters:
       and:
         - file.folder == "Персонажи/Игровые персонажи"
     order:
       - file.name
   - type: cards
-    name: представление
+    name: Вид карточек
     filters:
       and:
         - file.folder == "Персонажи/Игровые персонажи"

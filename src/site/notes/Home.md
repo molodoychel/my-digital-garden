@@ -17,6 +17,13 @@ views:
     filters:
       and:
         - file.folder == "Персонажи/Игровые персонажи"
+    order:
+      - file.name
+  - type: cards
+    name: представление
+    filters:
+      and:
+        - file.folder == "Персонажи/Игровые персонажи"
 
 ```
 

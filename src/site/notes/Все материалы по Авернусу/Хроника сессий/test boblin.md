@@ -3,4 +3,4 @@
 ---
 
 
-<iframe width="720" height="405" src="https://disk.yandex.ru/i/YnWEbJ8XmoBX7A/" style="border: none;" allow="clipboard-write; autoplay" allowFullScreen></iframe>
+<iframe width="720" height="405" src="https://youtube.com/shorts/MPEWEx7f8yE?feature=share" style="border: none;" allow="clipboard-write; autoplay" allowFullScreen></iframe>
